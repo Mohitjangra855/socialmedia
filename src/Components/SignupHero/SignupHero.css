@@ -1,0 +1,19 @@
+.cascading-right {
+    margin-right: -50px;
+  }
+
+  @media (max-width: 991.98px) {
+    .cascading-right {
+      margin-right: 0;
+    }
+  }
+section{
+background-color: #34333329;
+}
+.signup-card-body{
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+.col-lg-6 .SignUp_img {
+  padding-left: 1rem;
+    height: 526px;
+}
